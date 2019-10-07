@@ -1,10 +1,13 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto|Russo+One&display=swap");
-p {
-  font-family: "Roboto", sans-serif;
+@font-face {
+  font-family: "Russo One";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("Barlow Regular"), local("Barlow-Regular"), url("/assets/fonts/russo-one.woff2") format("woff2");
 }
-
 h1 {
-  font-family: "Russo One", sans-serif;
+  font-family: "Russo One", Helvetica, Arial, serif;
 }
 
 /*# sourceMappingURL=style.css.map */
