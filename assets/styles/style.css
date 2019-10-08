@@ -4,7 +4,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local("Russo One"), local("Russo-One"), url("/assets/fonts/russo-one.woff2") format("woff2");
+  src: local("Russo One"), local("Russo-One"), url("../assets/fonts/russo-one.woff2") format("woff2");
 }
 h1 {
   font-family: "Russo One", Helvetica, Arial, serif;
